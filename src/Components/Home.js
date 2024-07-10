@@ -32,7 +32,7 @@ function Home() {
         </div>
       ) : (
         <div className="relative min-h-1/2 mt-28">
-          <img src={image2} className="w-full h-screen" alt="" />
+          <img src={image2} className="w-screen h-screen" alt="" />
           <div className="absolute flex  top-0 right-0 mt-8 mr-6 text-white">
             <img src={partner} className="w-10 mr-2" alt="" />
             <div className="text-start ml-2 text-green-200">
